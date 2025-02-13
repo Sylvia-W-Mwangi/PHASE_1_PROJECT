@@ -17,17 +17,17 @@
 
 1. Lifestyle choices and stress
 
-![Lifestyle_scatter](images/lifestyle_choices.png)
-
-![lifestyle_bar](images/lifestyle_choices_2.png)
+ [Lifestyle](images/lifestyle_choices.png)
+  
+ [lifestyle](images\lifestyle_choices_2.png)
 
 2. Age, Health and Stress
-
-![Health_Dashboard](images/Dashboard 1.png)
+ 
+ [Health](images\Dashboard 1.png)
 
 3. Occupation, work_related factors and stress
 
-![Work_Factors_Dashboard](images/Dashboard 2.png)
+ [Work_Factors_Dashboard](images\Dashboard 2.png)
 
 ## FINDINGS
 
@@ -35,3 +35,4 @@
 * It is evident that age and health factors are intertwined with stress.
 * Employees that lack a work-life balance tend to be highly stressed.
   
+[Tableau](https://public.tableau.com/app/profile/sylvia.mwangi/vizzes)
