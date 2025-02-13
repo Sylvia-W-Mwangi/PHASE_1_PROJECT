@@ -17,17 +17,17 @@
 
 1. Lifestyle choices and stress
 
-![Lifestyle_scatter](images\lifestyle_choices.png)
+![Lifestyle_scatter](images/lifestyle_choices.png)
 
-![lifestyle_bar](images\lifestyle_choices_2.png)
+![lifestyle_bar](images/lifestyle_choices_2.png)
 
 2. Age, Health and Stress
 
-![Health_Dashboard](images\Dashboard 1.png)
+![Health_Dashboard](images/Dashboard 1.png)
 
 3. Occupation, work_related factors and stress
 
-![Work_Factors_Dashboard](images\Dashboard 2.png)
+![Work_Factors_Dashboard](images/Dashboard 2.png)
 
 ## FINDINGS
 
